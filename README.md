@@ -3,6 +3,9 @@
 I’m a software engineer. Passionate about software development, architecture and building tools for developers. Prefer quality over quantity. Most experienced with Vue.js (using Typescript).
 Studing at HSE.
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadfsdfdsa&layout=compact)](https://github.com/sadfsdfdsa/github-readme-stats)
+ -->
+ 
 <!--
 **sadfsdfdsa/sadfsdfdsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,3 +31,5 @@ Here are some ideas to get you started:
 * [Habr Career](https://career.habr.com/karanarqq)
 * [LinkedIn](https://www.linkedin.com/in/karanarqq/)
 * [Telegram](https://t.me/karanarqq)
+
+![Artems's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadfsdfdsa&show_icons=true&theme=radical)
