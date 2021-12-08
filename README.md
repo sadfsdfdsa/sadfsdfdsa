@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 * [Habr Career](https://career.habr.com/karanarqq)
 * [LinkedIn](https://www.linkedin.com/in/karanarqq/)
+* [Telegram](https://t.me/karanarqq)
