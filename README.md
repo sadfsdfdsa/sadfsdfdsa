@@ -1,4 +1,4 @@
-# Hello!
+# :wave: Hello!
 
 I’m a software engineer. Passionate about software development, architecture and building tools for developers. Prefer quality over quantity. Most experienced with Vue.js (using Typescript).
 Studing at HSE.
@@ -22,7 +22,7 @@ Studing at HSE.
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab) ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
 
 
-## My articles
+## :memo: My articles
 
 ### [Ideal Vue.js and Typescript application](https://habr.com/ru/post/540798/)
 
@@ -32,7 +32,13 @@ Studing at HSE.
 
 ![RU](https://img.shields.io/badge/-RU-05122A?style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![Vue 3](https://img.shields.io/badge/-Vue3-05122A?style=flat&logo=vue.js)
 
-## My links
+## :heart: Me & OpenSource
+
+I help with support:
+### [:file_folder: OpenApi Typescript generator](https://github.com/drwpow/openapi-typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![OpenApi](https://img.shields.io/badge/-OpenApi-05122A?style=flat&logo=swagger)
+
+## :mailbox: My links
 
 [![Habr](https://img.shields.io/badge/-Habr-05122A?style=flat&logo=habr)](https://career.habr.com/karanarqq)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/karanarqq/)
