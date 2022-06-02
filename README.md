@@ -8,16 +8,14 @@ Studing at HSE.
 ![Vue.js](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js) 
 ![Svelte.js](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte) 
 ![Node.js](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js) 
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt.js) 
 ![Nest.js](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs) 
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest) 
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress) 
 ![Eslint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint) 
 ![Webpack](https://img.shields.io/badge/-WebPack-05122A?style=flat&logo=webpack) 
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql) 
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django) ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)
 
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab) ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
 
