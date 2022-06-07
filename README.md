@@ -1,6 +1,6 @@
 # :wave: Hello!
 
-I’m a software engineer. Most experienced with Vue.js (using Typescript), also has strong backend skills with python/node.js.
+I’m a software engineer. Most experienced with Vue.js and Svelte (using Typescript), also has strong backend skills with python/node.js.
 Studing at HSE.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) 
