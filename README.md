@@ -1,4 +1,4 @@
-# :wave: Hello!
+# Artem Shuvaev
 
 I’m a software engineer. Most experienced with Vue.js and Svelte (using Typescript), also has strong backend skills with python/node.js.
 Studing at HSE.
